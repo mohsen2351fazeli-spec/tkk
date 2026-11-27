@@ -128,5 +128,6 @@
   }
   .ep-head-grid h1 {
     justify-self: center;
+     text-align: center;
   }
 }
