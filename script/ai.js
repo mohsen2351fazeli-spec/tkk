@@ -5,7 +5,7 @@
 
   const API_URL = "https://openrouter.ai/api/v1/chat/completions";
   const API_KEY =
-    "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";
+    "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";
   const SYSTEM_PROMPT = `نام این هوش مصنوعی zhugegbt است.
 
 این سایت درباره دوران سه پادشاهی چین (Three Kingdoms) است.
